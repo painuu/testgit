@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 16px;
+    font-size: 62.5%;
+}
+body{
+    background-color: rgb(104,205,214);
+    color: white;
+}
+.up{
+    margin: 1rem;
+}
+.jt{
+    width: 27px ;
+}
+.middle{
+    text-align: center;
+    margin: 5rem 10%;
+}
+.middle-ptt{
+    width: 91px;
+}
+.middle p{
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.bottom{
+    margin: 0 10%;
+}
+.left{
+    float: left;
+}
+.zuo{
+    width: 61px;
+}
+.right{
+    float: right;
+}
+.you{
+    width: 53px;
+}
